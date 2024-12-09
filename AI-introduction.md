@@ -10,8 +10,8 @@
     - [2.1.1. ChatGPT’s interface and capabilities](#211-chatgpts-interface-and-capabilities)
       - [2.1.1.1. Interface Overview](#2111-interface-overview)
       - [2.1.1.2. Capabilities](#2112-capabilities)
-      - [2.1.2. Limitations](#212-limitations)
-    - [Examples of using ChatGPT](#examples-of-using-chatgpt)
+      - [2.1.1.3. Limitations](#2113-limitations)
+    - [2.1.2. Examples of using ChatGPT](#212-examples-of-using-chatgpt)
   - [2.2. Hands-on exercise](#22-hands-on-exercise)
 
 ## 1. Topics
@@ -108,14 +108,14 @@ Features include:
   - **Experiment with rephrasing**. Try different ways to ask a question for improved responses.
   - **Provide context**. If working on a multi-step task, remind ChatGPT of earlier steps.
 
-##### 2.1.2. Limitations
+##### 2.1.1.3. Limitations
 
 - ChatGPT does not access live internet data and is limited to its training knowledge.
 - Responses might not always be accurate or contextually perfect.
 - It relies on user input for maintaining context in complex discussions.
 
 
-#### Examples of using ChatGPT
+#### 2.1.2. Examples of using ChatGPT
 
 - Generate a summary of a recent AI milestone, such as OpenAI's GPT advancements.
 
