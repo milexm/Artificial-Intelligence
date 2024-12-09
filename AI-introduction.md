@@ -7,6 +7,11 @@
     - [1.1.3. Key characteristics of AI systems](#113-key-characteristics-of-ai-systems)
 - [2. Activities](#2-activities)
   - [2.1. Introduction to ChatGPT](#21-introduction-to-chatgpt)
+    - [2.1.1. ChatGPT’s interface and capabilities](#211-chatgpts-interface-and-capabilities)
+      - [2.1.1.1. Interface Overview](#2111-interface-overview)
+      - [2.1.1.2. Capabilities](#2112-capabilities)
+      - [2.1.2. Limitations](#212-limitations)
+    - [Examples of using ChatGPT](#examples-of-using-chatgpt)
   - [2.2. Hands-on exercise](#22-hands-on-exercise)
 
 ## 1. Topics
@@ -50,9 +55,67 @@ These tasks include understanding natural language, recognizing patterns, making
 
 ### 2.1. Introduction to ChatGPT
 
-Walkthrough of ChatGPT’s interface and capabilities.
+ChatGPT stands for **Chat Generative Pre-trained Transformer**.
 
-Use ChatGPT to:
+- **Chat**. Refers to its conversational abilities, designed to engage in natural language dialogue with users.
+- **Generative**. Highlights its capability to generate coherent and contextually appropriate responses based on input.
+- **Pre-trained**. Indicates that the model is trained on large datasets beforehand, enabling it to understand and respond effectively.
+- **Transformer**. Refers to the architecture underlying the model, which uses a mechanism of attention to understand and generate text. This is part of the transformer neural network framework introduced in the groundbreaking paper **Attention Is All You Need** (2017).
+
+The following image visually explains the components of ChatGPT, emphasizing the relationships among its parts: "Chat," "Generative," "Pre-trained," and "Transformer."
+
+Each concept is represented with a descriptive label and icon to
+enhance understanding.
+
+![chatgpt_flow](../Artificial-Intelligence/Resources/chatgpt_flow.png)
+
+
+ChatGPT is part of OpenAI's family of large language models (LLMs) and showcases advancements in AI-driven communication and reasoning.
+
+
+#### 2.1.1. ChatGPT’s interface and capabilities
+
+##### 2.1.1.1. Interface Overview
+
+ChatGPT provides a user-friendly interface where users can type prompts into a text box and receive AI-generated responses in real time.
+
+Features include:
+
+- Text input field for entering queries or instructions.
+- Chat history that retains a conversation context for a session.
+- Optional features like exporting chats or providing feedback on responses.
+
+##### 2.1.1.2. Capabilities
+
+- **Conversational Assistance**. Responds to questions, provides explanations, and generates ideas for various topics.
+  - Example: "Explain the basics of neural networks in simple terms."
+
+- **Content Generation**. Drafts essays, articles, emails, and code snippets.
+  - Example: "Write an email inviting a guest speaker to our AI workshop."
+
+- **Programming Assistance**. Debugs code, explains algorithms, and writes scripts.
+  - Example: "Fix this Python code snippet for loading a dataset."
+
+- **Brainstorming**. Generates creative ideas, such as project proposals or story concepts.
+  - Example: "Suggest three innovative applications for AI in education."
+
+- **Learning and summarize**. Summarizes articles, simplifies complex topics, and provides study guides.
+  - Example: "Summarize the key points from an article on reinforcement learning."
+
+- **Tips for Effective Use**.
+
+  - **Be specific with prompts**. Clearly describe the task or question
+  - **Experiment with rephrasing**. Try different ways to ask a question for improved responses.
+  - **Provide context**. If working on a multi-step task, remind ChatGPT of earlier steps.
+
+##### 2.1.2. Limitations
+
+- ChatGPT does not access live internet data and is limited to its training knowledge.
+- Responses might not always be accurate or contextually perfect.
+- It relies on user input for maintaining context in complex discussions.
+
+
+#### Examples of using ChatGPT
 
 - Generate a summary of a recent AI milestone, such as OpenAI's GPT advancements.
 

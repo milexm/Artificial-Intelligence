@@ -12,3 +12,7 @@ By the end of this course, students will be able to:
 - **Develop basic ML models using Python**.
 - Leverage AI tools, including **ChatGPT**, for research, problem-solving, and programming assistance.
 - Explore **ethical considerations** and **societal impacts** of AI.
+
+## Topics 
+
+- [AI Introduction](../Artificial-Intelligence/AI-introduction.md)
