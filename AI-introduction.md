@@ -67,7 +67,7 @@ The following image visually explains the components of ChatGPT, emphasizing the
 Each concept is represented with a descriptive label and icon to
 enhance understanding.
 
-![chatgpt_flow](../Artificial-Intelligence/Resources/chatgpt_flow.png)
+![chatgpt_flow](Resources/chatgpt_flow.png)
 
 
 ChatGPT is part of OpenAI's family of large language models (LLMs) and showcases advancements in AI-driven communication and reasoning.
