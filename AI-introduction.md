@@ -120,7 +120,7 @@ Features include:
 - Responses might not always be accurate or contextually perfect.
 - It relies on user input for maintaining context in complex discussions.
 
-### 2.2. Examples of using ChatGPT
+### 2.2. Examples of using ChatG
 
 #### 2.2.1. What is a prompt in ChatGPT
 
