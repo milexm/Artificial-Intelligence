@@ -1,4 +1,4 @@
-# AI Cancer diagnosis <!-- omit from toc -->
+# AI cancer diagnosis <!-- omit from toc -->
 
 Several companies and research centers are using AI in **genomic** and **imaging** analysis for **cancer diagnosis**. 
 

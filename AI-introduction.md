@@ -19,10 +19,9 @@
     - [2.3.2. AI Applications](#232-ai-applications)
 - [3. Hands-on exercises](#3-hands-on-exercises)
   - [3.1. Summarize a real-world AI application using ChatGPT](#31-summarize-a-real-world-ai-application-using-chatgpt)
-  - [3.2. Prompt ChatGPT to Summarize how AI is used in healthcare for cancer diagnosis](#32-prompt-chatgpt-to-summarize-how-ai-is-used-in-healthcare-for-cancer-diagn
+  - [3.2. Prompt ChatGPT to Summarize how AI is used in healthcare for cancer diagnosis](#32-prompt-chatgpt-to-summarize-how-ai-is-used-in-healthcare-for-cancer-diagnosis)
 - [4. Appendix](#4-appendix)
   - [4.1. Genomic and imaging cancer diagnosis](#41-genomic-and-imaging-cancer-diagnosis)
-    - [How to find and apply for clinical trials?](#how-to-find-and-apply-for-clinical-trials)
 - [5. References](#5-references)
 
 ## 1. Definition and scope of Artificial Intelligence
@@ -250,11 +249,7 @@ By streamlining diagnostic processes and offering predictive capabilities, AI su
 What are the companies and research centers that use AI in **genomic** and
 **imaging** analysis for cancer diagnosis? Do they accept patients for clinical trials?
 
-Several companies and research institutions use artificial intelligence (AI) to enhance genomic and imaging analysis for cancer diagnosis, and many are involved in clinical trials. For more inforamtion, see [AI-cancer-diagnosis](AI-cancer-diagnosis.md).
-
-
-
-#### How to find and apply for clinical trials?
+Several companies and research institutions use artificial intelligence (AI) to enhance genomic and imaging analysis for cancer diagnosis, and many are involved in clinical trials. For more inforamtion, see [AI cancer diagnosis](AI-cancer-diagnosis.md).
 
 
 
