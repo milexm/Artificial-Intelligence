@@ -9,7 +9,7 @@
     - [2.1.1. Interface Overview](#211-interface-overview)
     - [2.1.2. Capabilities](#212-capabilities)
     - [2.1.3. Limitations](#213-limitations)
-  - [2.2. Examples of using ChatGPT](#22-examples-of-using-chatgpt)
+  - [2.2. Examples of using ChatG](#22-examples-of-using-chatg)
     - [2.2.1. What is a prompt in ChatGPT](#221-what-is-a-prompt-in-chatgpt)
     - [2.2.2. Characteristics of a Prompt](#222-characteristics-of-a-prompt)
     - [2.2.3. Examples](#223-examples)
@@ -20,7 +20,9 @@
 - [3. Hands-on exercises](#3-hands-on-exercises)
   - [3.1. Summarize a real-world AI application using ChatGPT](#31-summarize-a-real-world-ai-application-using-chatgpt)
   - [3.2. Prompt ChatGPT to Summarize how AI is used in healthcare for cancer diagnosis](#32-prompt-chatgpt-to-summarize-how-ai-is-used-in-healthcare-for-cancer-diagnosis)
-- [4. References](#4-references)
+- [4. Appendix](#4-appendix)
+  - [4.1. Genomic and imaging cancer diagnosis](#41-genomic-and-imaging-cancer-diagnosis)
+- [5. References](#5-references)
 
 
 ## 1. Definition and scope of Artificial Intelligence
@@ -242,5 +244,61 @@ AI has revolutionized cancer diagnosis by enhancing accuracy, efficiency, and ea
 By streamlining diagnostic processes and offering predictive capabilities, AI supports clinicians in making timely, data-driven decisions, ultimately improving patient outcomes.
 
 
-## 4. References 
+## 4. Appendix
+
+### 4.1. Genomic and imaging cancer diagnosis
+
+What are the companies and research centers that use AI in **genomic** and
+**imaging** analysis for cancer diagnosis? Do they accept patients for clinical
+trials?
+
+Several companies and research institutions use artificial intelligence (AI) to
+enhance genomic and imaging analysis for cancer diagnosis, and many are involved
+in clinical trials. Here are some prominent examples.
+
+1. **Evaxion Biotech (Denmark)**. Specializes in AI-powered immunotherapies and
+vaccines for cancer. Their AI-Immunology™ platform targets neoantigens and
+retroviruses to develop personalized cancer treatments. Their lead product,
+EVX-01, is in Phase 2 trials for melanoma.
+
+   - [BIOPHARMATREND: WHERE TECH MEETS
+BIO](https://www.biopharmatrend.com/post/698-how-artificial-intelligence-is-reshaping-the-landscape-of-personalized-cancer-treatment/)
+
+   - [INSIDE PRECISION
+MEDICINE](https://www.insideprecisionmedicine.com/topics/informatics/aiming-ai-at-cancer-related-biomarkers/)
+
+1. **Immunai (USA)**. Focuses on multiomics technologies for improving
+   cell-based therapies. Their partnership with Baylor College of Medicine
+   involves clinical trials to advance cancer immunotherapies.
+
+1. iBio, Inc. (USA): Develops precision antibody therapies using AI. Their focus
+is on immune-oncology applications, such as T-cell binding antibodies.
+
+   - [BIOPHARMATREND: WHERE TECH MEETS
+BIO](https://www.biopharmatrend.com/post/698-how-artificial-intelligence-is-reshaping-the-landscape-of-personalized-cancer-treatment/)
+
+1. Fudan University Cancer Center (China): Utilizes deep learning for biomarker
+predictions from pathology slides and integrates imaging with genomic data for
+advanced diagnostics.
+
+   - [INSIDE PRECISION
+MEDICINE](https://www.insideprecisionmedicine.com/topics/informatics/aiming-ai-at-cancer-related-biomarkers/)
+.
+
+1. National Cancer Institute (NCI) (USA): Supports various projects, including
+AI tools to combine histopathology and molecular data for precision oncology and
+to predict outcomes for breast cancer patients. The NCI collaborates with other
+institutions for clinical trials.
+
+   - [COMPREHENSIVE CANCER INFORMATION](https://www.cancer.gov/research/infrastructure/artificial-intelligence)
+
+> [!IMPORTANT]
+> Many of these organizations actively recruit patients for
+> clinical trials to test AI-driven treatments or diagnostic tools. 
+> Patients or caregivers interested in participation should explore platforms like
+**ClinicalTrials.gov** or contact these institutions directly to understand
+eligibility and availability.
+
+
+## 5. References 
 
