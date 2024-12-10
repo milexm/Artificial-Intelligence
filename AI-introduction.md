@@ -253,6 +253,5 @@ What are the companies and research centers that use AI in **genomic** and
 Several companies and research institutions use artificial intelligence (AI) to enhance genomic and imaging analysis for cancer diagnosis, and many are involved in clinical trials. For more inforamtion, see [AI cancer diagnosis](AI-cancer-diagnosis.md).
 
 
-
 ## 5. References 
 
