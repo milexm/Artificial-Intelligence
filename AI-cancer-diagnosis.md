@@ -61,7 +61,10 @@ There are several companies and research centers using AI in genomic and imaging
 > trials. If you're interested in participating, it's best to contact the
 > specific company or research center directly to learn about eligibility
 > criteria and ongoing studies. Many of these organizations actively recruit
-> patients for clinical trials to test AI-driven treatments or diagnostic tools. Patients or caregivers interested in participation should explore platforms like **ClinicalTrials.gov** or contact these institutions directly to understand eligibility and availability.
+> patients for clinical trials to test AI-driven treatments or diagnostic tools.
+> Patients or caregivers interested in participation should explore platforms
+> like **ClinicalTrials.gov** or contact these institutions directly to
+> understand eligibility and availability.
 
 ## 2. Steps to find a clinical trial
 
