@@ -19,11 +19,10 @@
     - [2.3.2. AI Applications](#232-ai-applications)
 - [3. Hands-on exercises](#3-hands-on-exercises)
   - [3.1. Summarize a real-world AI application using ChatGPT](#31-summarize-a-real-world-ai-application-using-chatgpt)
-  - [3.2. Prompt ChatGPT to Summarize how AI is used in healthcare for cancer diagnosis](#32-prompt-chatgpt-to-summarize-how-ai-is-used-in-healthcare-for-cancer-diagnosis)
+  - [3.2. Prompt ChatGPT to Summarize how AI is used in healthcare for cancer diagnosis](#32-prompt-chatgpt-to-summarize-how-ai-is-used-in-healthcare-for-cancer-diagn
 - [4. Appendix](#4-appendix)
   - [4.1. Genomic and imaging cancer diagnosis](#41-genomic-and-imaging-cancer-diagnosis)
 - [5. References](#5-references)
-
 
 ## 1. Definition and scope of Artificial Intelligence
 
@@ -242,7 +241,6 @@ AI has revolutionized cancer diagnosis by enhancing accuracy, efficiency, and ea
     - AI systems integrated with wearable devices monitor physiological data, helping in the early detection of conditions potentially leading to cancer.
 
 By streamlining diagnostic processes and offering predictive capabilities, AI supports clinicians in making timely, data-driven decisions, ultimately improving patient outcomes.
-
 
 ## 4. Appendix
 
