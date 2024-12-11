@@ -91,8 +91,6 @@ There are several companies and research centers using AI in genomic and imaging
 
 1. **NIH Clinical Research Trials and You**. Information on how to find and participate in NIH-sponsored trials.
 
-
-
 ## 3. Ultrasound imaging and AI
 
 When AI is coupled with ultrasound imaging, it provides a powerful diagnostic tool more accurate and less prone to errors. 
@@ -120,7 +118,7 @@ You could get a second opinion via ultrasound imaging using AI. Here are some or
 
 **These organizations can help provide a more accurate and reliable second opinion using advanced AI technology**. If you're interested, you can contact them directly to learn more about their services and how to get started.
 
-
 ## 4. References
 
 - [Aiming AI at Cancer-Related Biomarkers](https://www.insideprecisionmedicine.com/topics/informatics/aiming-ai-at-cancer-related-biomarkers/)
+
