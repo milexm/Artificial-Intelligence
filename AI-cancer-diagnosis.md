@@ -122,3 +122,4 @@ You could get a second opinion via ultrasound imaging using AI. Here are some or
 
 - [Aiming AI at Cancer-Related Biomarkers](https://www.insideprecisionmedicine.com/topics/informatics/aiming-ai-at-cancer-related-biomarkers/)
 - [A clearer picture](https://unlocked.microsoft.com/volpara/?form=M402JX&ocid=M402JX) - AI brings more clarity to breast cancer screening
+
