@@ -7,6 +7,7 @@ Several companies and research centers are using AI in **genomic** and **imaging
   - [1.2. Research Centers](#12-research-centers)
 - [2. Steps to find a clinical trial](#2-steps-to-find-a-clinical-trial)
   - [2.1. Resources](#21-resources)
+- [3. Ultrasoud imaging and AI](#3-ultrasoud-imaging-and-ai)
 
 These companies and research institutions use AI to enhance genomic and imaging analysis for cancer diagnosis, and many are involved
 in clinical trials. Here are a few notable ones.
@@ -88,3 +89,31 @@ There are several companies and research centers using AI in genomic and imaging
 1. **National Cancer Institute** (NCI). Offers a six-step guide to finding clinical trials and provides a tailored search service.
 
 1. **NIH Clinical Research Trials and You**. Information on how to find and participate in NIH-sponsored trials.
+
+## 3. Ultrasoud imaging and AI
+
+When AI is coupled with ultrasound imaging, it provides a powerful diagnostic tool more accurate and less prone to errors. 
+
+You could get a second opinion via ultrasound imaging using AI. Here are some organizations and companies that offer AI-powered second opinions for breast imaging:
+
+
+1. **Mount Sinai Hospital in New York**.  It uses the **Koios DS Smart Ultrasound software for AI-based second opinions on breast ultrasounds**. This software assists radiologists by providing a second opinion on mammograms and ultrasounds, helping to identify breast cancers more accurately and reducing the number of unnecessary follow-up procedures.
+
+   - Address: 1 Gustave L. Levy Place, New York, NY 10029
+   - Phone: (212) 241-6500
+   - Website: [Mount Sinai Hospital](https://www.mountsinai.org/locations/mount-sinai/about/contact)
+
+1. **Seno Medical** offers the **Imagio® Breast Imaging System**, which combines opto-acoustic and ultrasound imaging to provide real-time, non-invasive insights into breast masses. **This system aims to reduce the need for invasive biopsies by providing detailed imaging supported by AI-driven decision support**.
+
+   - Address: 8023 Vantage Drive, Suite 1000, San Antonio, TX 78230
+   - Phone: (210) 615-6501
+   - Website: [Seno Medical](https://senomedical.com/contact)
+
+1. **CDN Care** provides an **AI-powered second opinion service for breast ultrasound and mammogram images**. Their technology uses sophisticated algorithms trained on a large number of verified diagnoses to deliver precise assessments quickly. This service is available as a stand-alone product or integrated within their Medblu platform6.
+
+   - Address: 3450 S 344th Way, Suite 200, Federal Way, WA 98001
+   - Phone: (866) 214-9899
+   - Website: [Consumer Direct Care Network Washington](https://www.consumerdirectwa.com/contact/)
+
+**These organizations can help provide a more accurate and reliable second opinion using advanced AI technology**. If you're interested, you can contact them directly to learn more about their services and how to get started.
+
