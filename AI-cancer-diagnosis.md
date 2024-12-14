@@ -190,5 +190,5 @@ Many of these organizations actively recruit patients for clinical trials to tes
 - [ClinicalTrials.gov](ClinicalTrials.gov ) 
 - [Artificial Intelligence (AI) and Cancer](https://www.cancer.gov/research/infrastructure/artificial-intelligence)
 - [Six AI-driven Drug Discovery Companies Enabling Precision Oncology](https://www.biopharmatrend.com/post/698-how-artificial-intelligence-is-reshaping-the-landscape-of-personalized-cancer-treatment/)
-- [IAiming AI at Cancer-Related Biomarkers](https://www.insideprecisionmedicine.com/topics/informatics/aiming-ai-at-cancer-related-biomarkers/)
+- [Aiming AI at Cancer-Related Biomarkers](https://www.insideprecisionmedicine.com/topics/informatics/aiming-ai-at-cancer-related-biomarkers/)
 
