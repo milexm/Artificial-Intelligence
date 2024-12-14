@@ -153,6 +153,7 @@ Several companies and research institutions use artificial intelligence to enhan
 
    Specializes in AI-powered **immunotherapies** and **vaccines** for cancer. Their AI-Immunology™ platform targets neoantigens and retroviruses to develop personalized cancer treatments. Their lead product, EVX-01, is in Phase 2 trials for melanoma​.
 
+
    - [BIOPHARMATREND: WHERE TECH MEETS BIO](https://www.biopharmatrend.com/post/698-how-artificial-intelligence-is-reshaping-the-landscape-of-personalized-cancer-treatment/)
 ​
    - [INSIDE PRECISION MEDICINE](https://www.insideprecisionmedicine.com/topics/informatics/aiming-ai-at-cancer-related-biomarkers/)
