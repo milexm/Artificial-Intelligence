@@ -8,7 +8,9 @@ Several companies and research centers are using AI in **genomic** and **imaging
 - [2. Steps to find a clinical trial](#2-steps-to-find-a-clinical-trial)
   - [2.1. Resources](#21-resources)
 - [3. Ultrasound imaging and AI](#3-ultrasound-imaging-and-ai)
-- [4. References](#4-references)
+- [4. How AI is used in healthcare to diagnose cancer](#4-how-ai-is-used-in-healthcare-to-diagnose-cancer)
+  - [4.1. Companies and istitutions](#41-companies-and-istitutions)
+- [5. References](#5-references)
 
 These companies and research institutions use AI to enhance genomic and imaging analysis for cancer diagnosis, and many are involved
 in clinical trials. Here are a few notable ones.
@@ -97,7 +99,6 @@ When AI is coupled with ultrasound imaging, it provides a powerful diagnostic to
 
 You could get a second opinion via ultrasound imaging using AI. Here are some organizations and companies that offer AI-powered second opinions for breast imaging:
 
-
 1. **Mount Sinai Hospital in New York**.  It uses the **Koios DS Smart Ultrasound software for AI-based second opinions on breast ultrasounds**. This software assists radiologists by providing a second opinion on mammograms and ultrasounds, helping to identify breast cancers more accurately and reducing the number of unnecessary follow-up procedures.
 
    - Address: 1 Gustave L. Levy Place, New York, NY 10029
@@ -118,8 +119,74 @@ You could get a second opinion via ultrasound imaging using AI. Here are some or
 
 **These organizations can help provide a more accurate and reliable second opinion using advanced AI technology**. If you're interested, you can contact them directly to learn more about their services and how to get started.
 
-## 4. References
+## 4. How AI is used in healthcare to diagnose cancer
+
+AI has revolutionized cancer diagnosis by enhancing accuracy, efficiency, and early detection. The following are key ways AI is applied.
+
+1. Medical Imaging Analysis
+
+   AI algorithms analyze radiology images like X-rays, CT scans, and MRIs to detect tumors, often identifying anomalies earlier than traditional methods.   For instance, **AI can detect subtle patterns in mammograms to identify breast cancer**.
+
+1. Pathology Support
+
+   AI tools **examine biopsy samples, using pattern recognition to identify cancerous cells in histopathology slides**. This accelerates diagnoses and reduces human error.
+
+1. Risk Prediction and Screening
+
+   Machine learning models **analyze patient histories, genetic data, and lifestyle factors to predict cancer risks and recommend preventive screenings.**
+
+1. Genomic Analysis
+
+   AI interprets **genetic mutations from sequencing data, identifying actionable insights for personalized cancer treatments**, such as targeted therapies.
+
+1. Integration with Wearable Technology
+
+   AI systems integrated with wearable devices monitor physiological data, helping in the early detection of conditions potentially leading to cancer.
+
+By streamlining diagnostic processes and offering predictive capabilities, AI supports clinicians in making timely, data-driven decisions, ultimately improving patient outcomes. Let me know if you'd like specific examples or detailed studies!
+
+### 4.1. Companies and istitutions
+
+Several companies and research institutions use artificial intelligence to enhance **genomic** and i**maging analysis** **for cancer diagnosis**, and many are involved in clinical trials. The following are some prominent examples.
+
+1. Evaxion Biotech (Denmark)
+
+   Specializes in AI-powered **immunotherapies** and **vaccines** for cancer. Their AI-Immunology™ platform targets neoantigens and retroviruses to develop personalized cancer treatments. Their lead product, EVX-01, is in Phase 2 trials for melanoma​.
+
+
+   - [BIOPHARMATREND: WHERE TECH MEETS BIO](https://www.biopharmatrend.com/post/698-how-artificial-intelligence-is-reshaping-the-landscape-of-personalized-cancer-treatment/)
+​
+   - [INSIDE PRECISION MEDICINE](https://www.insideprecisionmedicine.com/topics/informatics/aiming-ai-at-cancer-related-biomarkers/)
+
+1. Immunai (USA)
+
+   Focuses on multiomics technologies for improving cell-based therapies. Their partnership with Baylor College of Medicine involves clinical trials to advance cancer immunotherapies​
+
+   - [BIOPHARMATREND: WHERE TECH MEETS BIO](https://www.biopharmatrend.com/post/698-how-artificial-intelligence-is-reshaping-the-landscape-of-personalized-cancer-treatment/)
+
+1. iBio, Inc. (USA).
+
+   Develops precision antibody therapies using AI. Their focus is on immune-oncology applications, such as T-cell binding antibodies​
+
+   - [BIOPHARMATREND: WHERE TECH MEETS BIO](https://www.biopharmatrend.com/post/698-how-artificial-intelligence-is-reshaping-the-landscape-of-personalized-cancer-treatment/)
+
+1. Fudan University Cancer Center (China) 
+
+   Utilizes deep learning for biomarker predictions from pathology slides and integrates imaging with genomic data for advanced diagnostics​
+
+    - [INSIDE PRECISION MEDICINE](https://www.insideprecisionmedicine.com/topics/informatics/aiming-ai-at-cancer-related-biomarkers/)
+
+1. National Cancer Institute (NCI) (USA) 
+
+   Supports various projects, including AI tools to combine histopathology and molecular data for precision oncology and to predict outcomes for breast cancer patients. The NCI collaborates with other institutions for clinical trials​
+
+   - [Artificial Intelligence (AI) and Cancer](https://www.cancer.gov/research/infrastructure/artificial-intelligence)
+
+Many of these organizations actively recruit patients for clinical trials to test AI-driven treatments or diagnostic tools. Patients or caregivers interested in participation should explore platforms like [ClinicalTrials.gov](ClinicalTrials.gov ) or contact these institutions directly to understand eligibility and availability.
+
+## 5. References
 
 - [Aiming AI at Cancer-Related Biomarkers](https://www.insideprecisionmedicine.com/topics/informatics/aiming-ai-at-cancer-related-biomarkers/)
 - [A clearer picture](https://unlocked.microsoft.com/volpara/?form=M402JX&ocid=M402JX) - AI brings more clarity to breast cancer screening
-
+- [ClinicalTrials.gov](ClinicalTrials.gov ) 
+- [Artificial Intelligence (AI) and Cancer](https://www.cancer.gov/research/infrastructure/artificial-intelligence)
