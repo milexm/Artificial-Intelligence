@@ -159,8 +159,7 @@ Several companies and research institutions use artificial intelligence to enhan
 
 1. Immunai (USA)
 
-   Focuses on multiomics technologies for improving cell-based therapies. Their partnership with Baylor College of Medicine involves clinical trials to advance cancer immunotherapies​
-
+   Focuses on multiomics technologies for improving cell-based therapies. Their partnership with Baylor College of Medicine involves clinical trials to advance cancer immunotherapies
    - [Six AI-driven Drug Discovery Companies Enabling Precision Oncology](https://www.biopharmatrend.com/post/698-how-artificial-intelligence-is-reshaping-the-landscape-of-personalized-cancer-treatment/)
 
 1. iBio, Inc. (USA).
@@ -168,6 +167,7 @@ Several companies and research institutions use artificial intelligence to enhan
    Develops precision antibody therapies using AI. Their focus is on immune-oncology applications, such as T-cell binding antibodies​
 
    - [Six AI-driven Drug Discovery Companies Enabling Precision Oncology](https://www.biopharmatrend.com/post/698-how-artificial-intelligence-is-reshaping-the-landscape-of-personalized-cancer-treatment/)
+
 
 1. Fudan University Cancer Center (China) 
 
