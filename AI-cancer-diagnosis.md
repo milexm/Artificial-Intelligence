@@ -153,28 +153,27 @@ Several companies and research institutions use artificial intelligence to enhan
 
    Specializes in AI-powered **immunotherapies** and **vaccines** for cancer. Their AI-Immunology™ platform targets neoantigens and retroviruses to develop personalized cancer treatments. Their lead product, EVX-01, is in Phase 2 trials for melanoma​.
 
-
-   - [BIOPHARMATREND: WHERE TECH MEETS BIO](https://www.biopharmatrend.com/post/698-how-artificial-intelligence-is-reshaping-the-landscape-of-personalized-cancer-treatment/)
+   - [Six AI-driven Drug Discovery Companies Enabling Precision Oncology](https://www.biopharmatrend.com/post/698-how-artificial-intelligence-is-reshaping-the-landscape-of-personalized-cancer-treatment/)
 ​
-   - [INSIDE PRECISION MEDICINE](https://www.insideprecisionmedicine.com/topics/informatics/aiming-ai-at-cancer-related-biomarkers/)
+   - [Aiming AI at Cancer-Related Biomarkers](https://www.insideprecisionmedicine.com/topics/informatics/aiming-ai-at-cancer-related-biomarkers/)
 
 1. Immunai (USA)
 
-   Focuses on multiomics technologies for improving cell-based therapies. Their partnership with Baylor College of Medicine involves clinical trials to advance cancer immunotherapies​
-
-   - [BIOPHARMATREND: WHERE TECH MEETS BIO](https://www.biopharmatrend.com/post/698-how-artificial-intelligence-is-reshaping-the-landscape-of-personalized-cancer-treatment/)
+   Focuses on multiomics technologies for improving cell-based therapies. Their partnership with Baylor College of Medicine involves clinical trials to advance cancer immunotherapies
+   - [Six AI-driven Drug Discovery Companies Enabling Precision Oncology](https://www.biopharmatrend.com/post/698-how-artificial-intelligence-is-reshaping-the-landscape-of-personalized-cancer-treatment/)
 
 1. iBio, Inc. (USA).
 
    Develops precision antibody therapies using AI. Their focus is on immune-oncology applications, such as T-cell binding antibodies​
 
-   - [BIOPHARMATREND: WHERE TECH MEETS BIO](https://www.biopharmatrend.com/post/698-how-artificial-intelligence-is-reshaping-the-landscape-of-personalized-cancer-treatment/)
+   - [Six AI-driven Drug Discovery Companies Enabling Precision Oncology](https://www.biopharmatrend.com/post/698-how-artificial-intelligence-is-reshaping-the-landscape-of-personalized-cancer-treatment/)
+
 
 1. Fudan University Cancer Center (China) 
 
    Utilizes deep learning for biomarker predictions from pathology slides and integrates imaging with genomic data for advanced diagnostics​
 
-    - [INSIDE PRECISION MEDICINE](https://www.insideprecisionmedicine.com/topics/informatics/aiming-ai-at-cancer-related-biomarkers/)
+    - [IAiming AI at Cancer-Related Biomarkers](https://www.insideprecisionmedicine.com/topics/informatics/aiming-ai-at-cancer-related-biomarkers/)
 
 1. National Cancer Institute (NCI) (USA) 
 
@@ -190,3 +189,6 @@ Many of these organizations actively recruit patients for clinical trials to tes
 - [A clearer picture](https://unlocked.microsoft.com/volpara/?form=M402JX&ocid=M402JX) - AI brings more clarity to breast cancer screening
 - [ClinicalTrials.gov](ClinicalTrials.gov ) 
 - [Artificial Intelligence (AI) and Cancer](https://www.cancer.gov/research/infrastructure/artificial-intelligence)
+- [Six AI-driven Drug Discovery Companies Enabling Precision Oncology](https://www.biopharmatrend.com/post/698-how-artificial-intelligence-is-reshaping-the-landscape-of-personalized-cancer-treatment/)
+- [Aiming AI at Cancer-Related Biomarkers](https://www.insideprecisionmedicine.com/topics/informatics/aiming-ai-at-cancer-related-biomarkers/)
+
