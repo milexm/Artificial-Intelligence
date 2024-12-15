@@ -240,6 +240,7 @@ Oncology](https://www.biopharmatrend.com/post/698-how-artificial-intelligence-is
    - [Six AI-driven Drug Discovery Companies Enabling Precision
      Oncology](https://www.biopharmatrend.com/post/698-how-artificial-intelligence-is-reshaping-the-landscape-of-personalized-cancer-treatment/)
 
+
 1. Fudan University Cancer Center (China) 
 
    Utilizes deep learning for biomarker predictions from pathology slides and
