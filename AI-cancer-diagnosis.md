@@ -232,6 +232,9 @@ Oncology](https://www.biopharmatrend.com/post/698-how-artificial-intelligence-is
    - [Six AI-driven Drug Discovery Companies Enabling Precision
      Oncology](https://www.biopharmatrend.com/post/698-how-artificial-intelligence-is-reshaping-the-landscape-of-personalized-cancer-treatment/)
 
+   Focuses on multiomics technologies for improving cell-based therapies. Their partnership with Baylor College of Medicine involves clinical trials to advance cancer immunotherapies
+   - [Six AI-driven Drug Discovery Companies Enabling Precision Oncology](https://www.biopharmatrend.com/post/698-how-artificial-intelligence-is-reshaping-the-landscape-of-personalized-cancer-treatment/)
+
 1. iBio, Inc. (USA).
 
    Develops precision antibody therapies using AI. Their focus is on
@@ -240,6 +243,7 @@ Oncology](https://www.biopharmatrend.com/post/698-how-artificial-intelligence-is
    - [Six AI-driven Drug Discovery Companies Enabling Precision
      Oncology](https://www.biopharmatrend.com/post/698-how-artificial-intelligence-is-reshaping-the-landscape-of-personalized-cancer-treatment/)
 
+   - [Six AI-driven Drug Discovery Companies Enabling Precision Oncology](https://www.biopharmatrend.com/post/698-how-artificial-intelligence-is-reshaping-the-landscape-of-personalized-cancer-treatment/)
 
 1. Fudan University Cancer Center (China) 
 
