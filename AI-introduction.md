@@ -9,7 +9,7 @@
     - [2.1.1. Interface Overview](#211-interface-overview)
     - [2.1.2. Capabilities](#212-capabilities)
     - [2.1.3. Limitations](#213-limitations)
-  - [2.2. Examples of using ChatG](#22-examples-of-using-chatg)
+  - [2.2. Examples of using ChatGPT](#22-examples-of-using-chatgpt)
     - [2.2.1. What is a prompt in ChatGPT](#221-what-is-a-prompt-in-chatgpt)
     - [2.2.2. Characteristics of a Prompt](#222-characteristics-of-a-prompt)
     - [2.2.3. Examples](#223-examples)
@@ -17,12 +17,11 @@
   - [2.3. Answer basic questions about AI history and applications](#23-answer-basic-questions-about-ai-history-and-applications)
     - [2.3.1. Brief AI history](#231-brief-ai-history)
     - [2.3.2. AI Applications](#232-ai-applications)
-- [3. Hands-on exercises](#3-hands-on-exercises)
+- [3. Hands-on exercises using prompts](#3-hands-on-exercises-using-prompts)
   - [3.1. Summarize a real-world AI application using ChatGPT](#31-summarize-a-real-world-ai-application-using-chatgpt)
-  - [3.2. Prompt ChatGPT to Summarize how AI is used in healthcare for cancer diagnosis](#32-prompt-chatgpt-to-summarize-how-ai-is-used-in-healthcare-for-cancer-diagnosis)
+  - [3.2. Summarize how AI is used in healthcare for cancer diagnosis](#32-summarize-how-ai-is-used-in-healthcare-for-cancer-diagnosis)
 - [4. Appendix](#4-appendix)
   - [4.1. Genomic and imaging cancer diagnosis](#41-genomic-and-imaging-cancer-diagnosis)
-
 - [5. References](#5-references)
 
 ## 1. Definition and scope of Artificial Intelligence
@@ -122,7 +121,7 @@ Features include:
 - Responses might not always be accurate or contextually perfect.
 - It relies on user input for maintaining context in complex discussions.
 
-### 2.2. Examples of using ChatG
+### 2.2. Examples of using ChatGPT
 
 #### 2.2.1. What is a prompt in ChatGPT
 
@@ -213,11 +212,11 @@ The following applications showcase AI's transformative potential across diverse
 
    - AI aids in climate modeling, disaster prediction, and developing sustainable solutions like optimizing energy use.
 
-## 3. Hands-on exercises
+## 3. Hands-on exercises using prompts
 
 ### 3.1. Summarize a real-world AI application using ChatGPT
 
-### 3.2. Prompt ChatGPT to Summarize how AI is used in healthcare for cancer diagnosis
+### 3.2. Summarize how AI is used in healthcare for cancer diagnosis
 
 AI has revolutionized cancer diagnosis by enhancing accuracy, efficiency, and early detection. Here are the key ways it is applied. 
 
