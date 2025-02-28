@@ -10,6 +10,7 @@ This article shows how to use **Python** to interact with **OpenAI**, specifical
 - [6. Next Steps and Best Practices](#6-next-steps-and-best-practices)
 - [7. References](#7-references)
 
+
 ## 1. Introduction
 
 ChatGPT, powered by models like GPT-3.5 or GPT-4, is a versatile AI that can understand and generate human-like text. By using Python, you can build applications that interact with ChatGPT for tasks like chatbots, content generation, or even code assistance.
@@ -55,6 +56,7 @@ def chat_with_gpt(prompt):
 
 ```
 
+
 ## 5. Running the Script
 
 Open your terminal, navigate to the directory containing your script, and run:
@@ -81,3 +83,4 @@ ChatGPT is thinking...
 
 - [OpenAI Platform](https://platform.openai.com/settings/organization/general)
 - [ChatGPT](https://chatgpt.com/)
+
