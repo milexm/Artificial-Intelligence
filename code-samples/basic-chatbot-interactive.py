@@ -1,6 +1,9 @@
 """ 
-basic-chatbot.py
-Basic example of interaction with ChatGPT.
+basic-chatbot-interactive.py
+Basic example of interactive chatbot that interacts with ChatGPT.
+The bot continuously prompts for user input until the user types "exit."
+Real-time Interaction: Each user prompt is sent to ChatGPT, 
+and its response is displayed immediately.
 
 Remarks
 -------
@@ -20,21 +23,22 @@ import os
 # OpenAI API key
 openai.api_key = os.environ.get("my_openAI_key")
 
+
 def chat_with_gpt(prompt):
-     # Create a chat completion request using the new endpoint structure.
     response = openai.chat.completions.create(
-        model="gpt-3.5-turbo",  # You can also use "gpt-4" if you have access
+        model="gpt-3.5-turbo",
         messages=[
             {"role": "system", "content": "You are a helpful assistant."},
             {"role": "user", "content": prompt},
         ]
     )
-    # Extract the assistant's reply from the response.
-    reply = response.choices[0].message.content.strip()
-    return reply
+    return response.choices[0].message.content.strip()
 
 if __name__ == "__main__":
-    user_input = input("Enter your message for ChatGPT: ")
-    print("ChatGPT is thinking...\n")
-    answer = chat_with_gpt(user_input)
-    print("ChatGPT:", answer)
+    print("Welcome to the AI ChatBot! Type 'exit' to quit.")
+    while True:
+        user_input = input("You: ")
+        if user_input.lower() == "exit":
+            break
+        answer = chat_with_gpt(user_input)
+        print("ChatGPT:", answer)
