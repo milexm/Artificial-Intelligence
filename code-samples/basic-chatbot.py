@@ -17,6 +17,7 @@ import openai
 import os
 
 # Replace 'my_openAI_key'; it is the system variable containing the actual 
+
 # OpenAI API key
 openai.api_key = os.environ.get("my_openAI_key")
 
