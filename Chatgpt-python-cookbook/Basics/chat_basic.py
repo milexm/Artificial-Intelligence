@@ -1,12 +1,11 @@
 
 """ 
-teschat_basic.py
+chat_basic.py
 A basic Python script that sends a message to ChatGPT and prints the response.
-
 
 Remarks
 -------
-API Key. Make sure to set your API key securely.
+API Key. Make sure to store your API key securely.
 Endpoint Call. We call openai.chat.completions.create() with:
     model: Which model to use (e.g., "gpt-3.5-turbo").
     messages: A list that defines the conversation 
