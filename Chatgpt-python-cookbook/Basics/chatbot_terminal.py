@@ -1,6 +1,6 @@
 
 """ 
-teschat_basic.py
+chatbot_terminal.py
 A simple chatbot script you can run in your terminal. 
 It stores conversation history in a list and keeps chatting 
 until you type "exit" or "quit".
@@ -8,8 +8,8 @@ until you type "exit" or "quit".
 Remarks
 -------
 API Key. Make sure to store your API key securely.
-The script works as follows: 
 
+The script works as follows: 
 1. A system message is used to define the assistant's behavior.
 2. A while loop handles continuous interaction.
 3. Both user and assistant messages are added to the messages list.
